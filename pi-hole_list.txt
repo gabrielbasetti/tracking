@@ -2,3 +2,4 @@ akamaiedge.net
 a-msedge.net
 glb.api.prod.dcat.dsp.trafficmanager.net
 onedsblobprdeus16.eastus.cloudapp.azure.com
+l-msedge.net
